@@ -1,0 +1,41 @@
+body {
+  background: linear-gradient(to top, #73BCAD , #D1F2EB );
+}
+
+h1 {
+  color: #148F77;
+  font-family: SF Toontime Shaded;
+}
+h2, th {
+  color: #148F77;
+  font-family: SF Toontime Blotch;
+}
+
+li, td, p {
+  color: #000000;
+  font-size: 20px;
+  font-family: SF Toontime;
+  text-transform: uppercase;
+}
+
+.encabezado{
+  background-color: #fdf9ee;
+	text-align: center;
+}
+.data{
+  background-color: #fdf9ee;
+	width: 20%;
+	vertical-align: top;
+	
+}
+.info{
+	width: 80%;
+}
+.footer{
+    background: #148f77;
+    text-align: center;
+
+}
+
+
+
